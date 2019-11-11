@@ -1,2 +1,2 @@
-# piccolo-mini.com
-Piccolo-Mini website
+# scanissimo.github.io
+your friendly 3D scanner

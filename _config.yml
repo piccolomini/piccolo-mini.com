@@ -1,0 +1,64 @@
+# Site settings
+title: piccolo-mini
+email: info@piccolo-mini.com
+url: https://www.piccolo-mini.com
+description: "piccolo-mini"
+keywords: "baby, equipment, gadgets, tools, parents"
+skills: "For the small ones"
+meta_author: piccolomini
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: piccolomini
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 92C1E9
+  primary-rgb: "146,193,233"
+  secondary: 05A8AA
+  secondary-dark: 2C4A58
+
+# Footer settings
+footer:
+  copyright: piccolo-mini
+  location: Impressum
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/piccolo-mini
+  - title: facebook
+    url:
+  - title: github
+    url: http://github.com/piccolo-mini
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Angaben gem. § 5 TMG, § 55 Abs. 2 RStV
+  - line: René Bohne
+  - line: Schreiberhauer Str. 3.
+  - line: 10317 Berlin
+
+# Credits content
+credits: 'available soon'
+
+# set to show for enablig the portfolio grid
+portfolio: hide
+
+# Build settings
+markdown: kramdown
+permalink: pretty
