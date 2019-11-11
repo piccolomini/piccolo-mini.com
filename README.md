@@ -1,2 +1,2 @@
-# scanissimo.github.io
-your friendly 3D scanner
+# piccolo-mini.github.io
+for the small ones
